@@ -6,7 +6,7 @@ import { Text } from 'react-native'
 export default ({ navigation }: { navigation: NativeStackNavigationProp<RootStackParamList> }) => {
   return (
     <DPage>
-      <Text>Application</Text>
+      <Text>Camera</Text>
     </DPage>
   )
 }
